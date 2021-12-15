@@ -1,0 +1,29 @@
+Arquitetura da Informação
+- Indexação de páginas. Ex:
+    0 Home
+    0.1 Economia
+    0.1.1 Mundo
+    0.1.2 Brasil
+    0.2 Esporte
+    0.2.1 Futebol
+    0.2.1.1 São Paulo
+    0.2.1.2 Vasco
+    0.2.2 UFC
+    
+ - Linkagem interna
+ 
+ - Organização da Informação
+   - Menus
+   - Conteúdo
+   
+Questão chave: É fácil encontrar a informação desejada?
+
+UX - Experiência do Usuário - 
+Envolve:
+  - Arquiteturas da informação: usuário, contexto, informação(estrutura(páginas,posts),organização(nomenclatura));
+  - Aparência;
+  - Interação;
+  - Facilidade de uso;
+  - Busca;
+  - Conteúdo.
+
